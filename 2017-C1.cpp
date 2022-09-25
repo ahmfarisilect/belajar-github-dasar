@@ -19,6 +19,8 @@ int cd(int x, int y){
 int main(){
 	int n,m,x,y;
 	
+	cout<<"Welcome"<<endl<<endl;
+	
 	cin>>n>>m>>x>>y;
 	
 	if(x>cd(n, 2)){
